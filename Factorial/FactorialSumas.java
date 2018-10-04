@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @fecha : 04-10-2018
  * @github : https://github.com/bitPanG98
  */
-public class Factoriaal {
+public class FactorialSumas {
 
 
     public static void main(String[] args) {
